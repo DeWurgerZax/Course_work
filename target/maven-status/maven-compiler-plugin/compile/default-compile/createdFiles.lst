@@ -1,0 +1,16 @@
+com\company\classes\Scheduler.class
+com\company\classes\CPU.class
+com\company\classes\ClockGenerator.class
+com\company\classes\Utils.class
+com\company\classes\Process.class
+com\company\Runner.class
+com\company\classes\Queue.class
+com\company\classes\MemScheduler.class
+com\company\classes\TLauncher.class
+com\company\Main.class
+com\company\classes\Configuration.class
+com\company\classes\Controller.class
+com\company\classes\MemoryBlock.class
+com\company\classes\Core.class
+com\company\interfaces\ITime.class
+com\company\classes\Status.class

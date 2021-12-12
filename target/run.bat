@@ -1,0 +1,1 @@
+java.exe -jar course-work-1.0-SNAPSHOT.jar
