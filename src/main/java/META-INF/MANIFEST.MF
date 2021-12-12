@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.example.course_work_java.Main
+Class-Path: com.example.course_work_java.Main
+
